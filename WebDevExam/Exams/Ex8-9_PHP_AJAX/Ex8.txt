@@ -1,0 +1,15 @@
+Exam 8 - PHP
+
+- Familiarize on PHP
+- It is recommended that you visit this site as your
+	reference: "http://www.w3schools.com/php/" and 
+	try their examples
+	
+Exercise/s:
+
+1. Create a PHP file that pulls the "accel" data from your database.
+2. Create a website that displays the data from your PHP in a table
+	format (refer to "table" element of HTML).
+3. Create a dropdown selection for "node" data.
+4. Display your PHP data (xval, yval, zval, mval) using DyGraph.
+	Select data to dispaly using "node" value. (Hint: Use JSON)

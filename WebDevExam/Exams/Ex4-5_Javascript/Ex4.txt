@@ -1,0 +1,25 @@
+Exam 4 - Javascript
+
+- Read more about the Basics of Javascript
+- It is recommended that you visit this site as your
+	reference: "http://www.w3schools.com/js/default.asp" and 
+	try their examples
+	
+Exercise/s:
+
+1. Create these Web Pages with the following characteristics:
+	a) Create an "about.html" page which displays your contact
+		info (Name, Email, Your Course, Brief Self Description).
+	b) Create a "findus.html" page which displays the location
+		of the EEE building using google maps. There should be
+		a location balloon that points out where EEE building
+		is exactly.
+	c) Create a "home.html" page which has a button in the middle
+		of the page. When clicked, the button will generate a
+		random (10 randomized selections) "quote for the day".
+	d) Using your DropDown Selection, integrate the "home page" 
+		, "About Us" and "Find Us" Pages. Users should be 
+		redirected to the selected pages when selection is 
+		clicked. The Dropdown should be under the "side bar".
+	e) Auto-scale should still apply to every page you've 
+		created.

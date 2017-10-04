@@ -1,0 +1,13 @@
+Exam 6 - Server Setups
+
+- This exercise will train you to build your own server
+	setup locally for development
+	
+Exercise/s:
+
+*** Provide screenshots for each item
+
+1. Download & Install MySQL
+2. Download & Install XAMPP
+3. Run your whole website on XAMPP
+4. Read on SQL

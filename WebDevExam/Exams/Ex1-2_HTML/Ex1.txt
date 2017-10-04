@@ -1,0 +1,16 @@
+Exam 1 - HTML
+
+- You will be reviewing the Basics of HTML coding.
+- It is recommended that you visit this site as your
+	reference: "http://www.w3schools.com/html/"
+	
+Exercise/s:
+
+1. Create a basic Web Page with the following characteristics:
+	a) Displays the web page title on the "Browser Tab"
+	b) Has a web header for displaying the Web Page name
+		on the Web Page
+	c) Display a background image
+	d) Has a paragraph which displays one paragraph of text (You
+		can use the "Lorem Ipsum Dolor..." text)
+	e) Display a Drop Down Menu consisting of 5 items

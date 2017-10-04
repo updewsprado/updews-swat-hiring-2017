@@ -1,0 +1,24 @@
+Exam 5 - Javascript
+
+- We will now experiment on integrating other JS libraries
+	to our practice website
+- It is recommended that you visit this site as your
+	reference: "http://www.w3schools.com/js/default.asp" and 
+	try their examples
+	
+Exercise/s:
+
+1. Create these Web Pages with the following characteristics:
+	a) Use DyGraphs to display a piece-wise function made by
+		a linear function and a sinusoid function. (Tip: Use
+		JSON for data handling)
+	b) Use DyGraphs on your webpage to display the data from
+		"gamb.csv". Library can be found from 
+		"http://dygraphs.com/"
+	c) Add the web plugin named "Disqus" to your web page.
+		"https://disqus.com/". Be the first to comment on it.
+	d) Display a "page loader animation" when the page is still
+		loading (or when Disqus or DyGraphs is still loading).
+	e) Organize your website to make it more visually appealing
+	f) The website should still be able to auto-scale depending
+		on the browser window's size.

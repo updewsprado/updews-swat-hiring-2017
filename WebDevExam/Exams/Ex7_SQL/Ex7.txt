@@ -1,0 +1,27 @@
+Exam 7 - SQL
+
+- Familiarize on SQL (Particularly, MySQL)
+- It is recommended that you visit this site as your
+	reference: "http://www.w3schools.com/sql/default.asp" and 
+	try their examples
+- Review the mysql commands & common queries included in the
+	folder as this will be useful in the future
+	
+Exercise/s:
+
+**Provide screenshots for each item
+
+1. Create a DB user account with the following details:
+	name: trainee
+	password: updews
+2. Create a database named "dews_training".
+3. Create a table named "accel" with the ff columns:
+	timestamp,
+	node,
+	xval,
+	yval,
+	zval,
+	mval,
+	purged
+4. Import the data from "gamb.csv" to the "accel" table. (If you
+	can automate it then much better)

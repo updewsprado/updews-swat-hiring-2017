@@ -1,0 +1,10 @@
+Exam 10 - Angular JS
+
+- Familiarize on Angular JS
+- It is recommended that you visit this site as your
+	reference: "https://www.w3schools.com/angular/" and 
+	try their examples
+	
+Exercise/s:
+
+1. Implement Exams 1 to 9 using AngularJS

@@ -1,0 +1,16 @@
+Exam 2 - HTML
+
+- Read more about the Basics of HTML
+- Add more attention to HTML Forms
+- It is recommended that you visit this site as your
+	reference: "http://www.w3schools.com/html/" and try their
+	examples
+	
+Exercise/s:
+
+1. Create a basic Web Page with the following characteristics:
+	a) Using your web page from Day1, add a HTML Form that gets
+		the user info (Name, E-mail, Age)
+	b) Store the user info (Your choice of storing method. You 
+	can either store it locally or put it to a database if you
+	can already use PHP and MySQL)
