@@ -24,7 +24,7 @@ Instructions:
 
 Repository Address: "https://github.com/updewsprado/updews-swat-hiring-2017"
 
-1. Create a git branch with name "2017-applicant-<your first name>-<your last name>"
+1. Create a git branch with name "2017-applicant-{yourfirstname}-{yourlastname}"
 
 2. You will find your take home exam under the  
 	"Exams/" folder.
