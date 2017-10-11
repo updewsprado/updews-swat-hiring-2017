@@ -10,13 +10,14 @@ environment.
 
 *******************************************************
 
-Grading Criteria:
+Grading Criteria (ordered according to importance):
 
 1. Ability to Learn Fast
 2. Ability to follow instructions
 3. Ability to use technology for software management
 4. Speed of implementation
 5. Code cleanliness and clarity
+6. Quality of output
 
 *******************************************************
 
@@ -29,7 +30,7 @@ Repository Address: "https://github.com/updewsprado/updews-swat-hiring-2017"
 2. You will find your take home exam under the  
 	"Exams/" folder.
 
-3. Place your answers on their respective exam folders
+3. Place your answers in their respective exam folders
 
 4. Don't forget to commit and push to your git branch (No pushing to master branch). Only commited and pushed
 	answers will be accepted.
