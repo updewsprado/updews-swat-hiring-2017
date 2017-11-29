@@ -10,10 +10,11 @@ Exercise/s:
 1. Create a basic Web Page with the following characteristics:
 	a) Using your web page from Day2, create an additional
 		left sidebar which has 20% of the total width of the
-		web browser.
+		web browser. This will contain the dropdown selection
+		that you created before.
 	b) The web content will have a width of 80% of the total
 		width of the web browser. This will contain the paragraph
-		and dropdown selection that you created before.
+		that you created before.
 	c) The "sidebar" and the "main content" should be below the
 		Web Page Header.
 	d) Auto-scale. The width of your display should scale
